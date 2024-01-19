@@ -1,0 +1,22 @@
+.replyBtn {
+  background-color:#02dca9;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #a7c2a9;
+	display:inline-block;
+	cursor:pointer;
+	color:#000;
+	font-family:Verdana;
+	font-size:17px;
+	padding:12px 21px;
+	text-decoration:none;
+	text-shadow:0px 1px 15px #02dca9;
+}
+.replyBtn:hover {
+	background-color:#02dca9s;
+}
+.replyBtn:active {
+	position:relative;
+	top:1px;
+}
